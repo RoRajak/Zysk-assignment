@@ -2,7 +2,7 @@ import message from "../assets/message.svg";
 import deliver from "../assets/deliver.svg";
 import report from "../assets/report.svg";
 import dashboardSM from "../assets/sm-iphone-12.svg"; 
-import content from "../assets/content.svg"; 
+import content from "../assets/Content.svg"; 
 
 import FeatureItem from "./helper/FeatureItem";
 
